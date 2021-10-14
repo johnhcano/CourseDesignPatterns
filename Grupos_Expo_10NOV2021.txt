@@ -1,0 +1,43 @@
+Grupo 1 (3) --> Visitor
+Juan Sebastian Olaya
+Juan sebastian Santamaria
+Sharon Delgado
+
+Grupo 2 (3) --> Strategy
+Andrés Camilo Torres Rosales
+Rafael Gutiérrez Vanegas
+Fidel Madrigal Torres
+
+Grupo 3 (2) --> State
+Jhoan Andres Riascos
+Johan Sebastian Bravo
+
+Grupo 4 (1) --> Memento
+Dari Bryon
+
+Grupo 5 (1) --> Mediator
+Santiago Martinez
+
+Grupo 6 (3) --> Iterator
+Juan Camilo Hernández
+José Daniel Espinoza
+Carlos Steven Hernández
+ 
+Grupo 7 (3) --> Interpreter
+Isaac Bermudez Garcia
+Katherin Lizeth Rodriguez
+Giampiero Paolo Gonzalez
+
+Grupo 8 (2) --> Command
+Lina Delgado
+Luis Miguel Mendez
+
+Grupo 9 (2) --> Chain of Responsibility
+Joseph Steven Orozco Lugo
+Juan Camilo Morales Camacho
+
+Grupo 10 (1) --> Flyweight
+Frank Florez Carabalí
+
+Falta:
+Kevin Ortiz Vásquez

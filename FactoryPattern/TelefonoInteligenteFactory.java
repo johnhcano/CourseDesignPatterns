@@ -6,10 +6,10 @@ public class TelefonoInteligenteFactory {
         TelefonoInteligente ti = null;
         if("Sony".equalsIgnoreCase(cad)){
             ti = new Sony();
-            System.out.println("Telefono Sony Creado...");
+            System.out.println("Teléfono Sony Creado...");
         }else{
             ti = new Iphone();
-            System.out.println("Telefono Iphone Creado...");
+            System.out.println("Teléfono Iphone Creado...");
         }
         return ti;
     }

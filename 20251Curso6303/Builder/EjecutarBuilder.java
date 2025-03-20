@@ -7,9 +7,15 @@ public class EjecutarBuilder {
 
         Reader objReader1 = new Reader("LINE", objConverter1);
 
-        Reader objReader2 = new Reader("PARAGRAPH", objConverter2);
+        Reader objReader2 = new Reader("TABLE", objConverter1);
+
+        Reader objReader3 = new Reader("PARAGRAPH", objConverter2);
         
         objReader1.parseInput();
+
+        objReader2.parseInput();
+
+        objReader3.parseInput();
  
     }
     

@@ -1,9 +1,5 @@
-public class PostScriptConverter extends Converter{
+public class PostScriptConverter implements Converter{
     
-    public PostScriptConverter(String document){
-        super(document);    
-    }
-
     public void makeLine() {
         System.out.println("Línea con PostScript");
     }

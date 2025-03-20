@@ -1,9 +1,9 @@
 public class EjecutarBuilder {
     public static void main(String[] args) {
         
-        Converter objConverter1 = new ASCIIConverter("La Iliada");
+        Converter objConverter1 = new ASCIIConverter();
         
-        Converter objConverter2 = new PDFConverter("Mi otro yo");
+        Converter objConverter2 = new PDFConverter();
 
         Reader objReader1 = new Reader("LINE", objConverter1);
 

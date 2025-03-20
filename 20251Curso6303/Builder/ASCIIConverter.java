@@ -1,9 +1,5 @@
-public class ASCIIConverter extends Converter {
+public class ASCIIConverter implements Converter {
     
-    public ASCIIConverter(String document){
-        super(document);    
-    }
-
     public void makeLine() {
         System.out.println("Línea con ASCII");
     }

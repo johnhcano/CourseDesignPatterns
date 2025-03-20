@@ -1,9 +1,5 @@
-public class PDFConverter extends Converter {
+public class PDFConverter implements Converter {
     
-    public PDFConverter(String document){
-        super(document);    
-    }
-
     public void makeLine() {
         System.out.println("Línea con PDF");
     }

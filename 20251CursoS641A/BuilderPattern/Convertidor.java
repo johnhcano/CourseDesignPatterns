@@ -1,8 +1,8 @@
-public class Converter {
+public class Convertidor {
 
     private String document;
 
-    public Converter(String document) {
+    public Convertidor(String document) {
         this.document = document;
     }
 

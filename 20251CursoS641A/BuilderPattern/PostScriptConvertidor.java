@@ -1,6 +1,6 @@
-public class PostScriptConverter extends Converter {
+public class PostScriptConvertidor extends Convertidor {
 
-    public PostScriptConverter(String document) {
+    public PostScriptConvertidor(String document) {
         super(document);
     }
 

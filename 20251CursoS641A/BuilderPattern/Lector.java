@@ -1,23 +1,23 @@
-public class Reader {
+public class Lector {
 
     private String element;
-    private Converter converter;
+    private Convertidor convertidor;
 
-    public Reader(String element, Converter converter){
+    public Lector(String element, Convertidor convertidor){
         this.element = element;
-        this.converter = converter;
+        this.convertidor = convertidor;
     }
 
     public void parseInput(){
         switch(element){
             case "LINE": 
-                converter.makeLine();
+                convertidor.makeLine();
                 break;
             case "PARAGRAPH":
-                converter.makeParagraph();
+                convertidor.makeParagraph();
                 break;
             case "TABLE":
-                converter.makeTable();
+                convertidor.makeTable();
                 break;
             default:
                 System.out.println("Opción inválida....");

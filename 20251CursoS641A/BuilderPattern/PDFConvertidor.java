@@ -1,6 +1,6 @@
-public class PDFConverter extends Converter {
+public class PDFConvertidor extends Convertidor {
 
-    public PDFConverter(String document) {
+    public PDFConvertidor(String document) {
         super(document);
     }
 

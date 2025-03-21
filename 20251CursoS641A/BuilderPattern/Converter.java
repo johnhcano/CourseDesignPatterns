@@ -2,23 +2,23 @@ public class Converter {
 
     private String document;
 
-    public Converter(String document){
+    public Converter(String document) {
         this.document = document;
     }
 
-    public void makeLine(){
+    public void makeLine() {
         System.out.println();
     }
 
-    public void makeParagraph(){
+    public void makeParagraph() {
         System.out.println();
     }
 
-    public void makeTable(){
+    public void makeTable() {
         System.out.println();
     }
 
-    public String getDocument(){
+    public String getDocument() {
         return document;
     }
 
